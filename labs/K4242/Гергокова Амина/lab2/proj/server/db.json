@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "username": "ivanov",
+      "email": "ivanovii@gmail.com",
+      "password": "12345",
+      "group": "2024",
+      "id": 1
+    },
+    {
+      "username": "petrov",
+      "email": "petrovpp@gmail.com",
+      "password": "54321",
+      "group": "2024",
+      "id": 2
+    },
+    {
+      "username": "sidorov",
+      "email": "sidorovss@gmail.com",
+      "password": "123",
+      "group": "2024",
+      "id": 3
+    },
+    {
+      "username": "vasechkin",
+      "email": "vasechkinvv@gmail.com",
+      "password": "321",
+      "group": "2024",
+      "id": 4
+    },
+    {
+      "username": "dolgopups",
+      "email": "dolgopupsdd@gmail.com",
+      "password": "012",
+      "group": "2024",
+      "id": 5
+    },
+    {
+      "username": "ivanii",
+      "email": "ivanii@gmail.com",
+      "password": "12345",
+      "id": 6
+    }
+  ]
+}
